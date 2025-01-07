@@ -44,6 +44,8 @@ node index.js
 Vous pouvez supprimer 
 README.MD
 
+6. Vous pouvez mettre l'image de aegis bot qui est dans logo.png
+
 ### Rappels 
 
 Vous avez le droit de modifier et d'utiliser le code du bot. Mais toujours me mentionner.
