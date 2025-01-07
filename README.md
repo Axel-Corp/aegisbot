@@ -1,6 +1,6 @@
-# Bot Discord - Modération
+# Aegisbot - Modération
 
-Ce bot Discord permet de gérer les actions de modération sur un serveur, telles que bannir, expulser, muter, avertir et supprimer des messages. Il inclut également un système de détection de spam et de contenu offensant.
+AégisBot permet de gérer les actions de modération sur un serveur, telles que bannir, expulser, muter, avertir et supprimer des messages. Il inclut également un système de détection de spam et de contenu offensant.
 
 ## Commandes disponibles
 
