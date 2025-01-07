@@ -1,0 +1,16 @@
+{
+    "name": "aegisbot",
+    "version": "1.0.0",
+    "description": "Un bot Discord multifonction pour modération et logs.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "AxelCorp",
+    "license": "MIT",
+    "dependencies": {
+      "discord.js": "^14.0.0",
+      "dotenv": "^16.0.0"
+    }
+  }
+  
